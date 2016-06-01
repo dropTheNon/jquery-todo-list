@@ -1,0 +1,28 @@
+h1 {
+  font-family: Arial-black;
+  font-size: 50px;
+}
+
+div {
+  /*border: 1px solid red;*/
+  margin: auto-center;
+  text-align: center;
+}
+
+#mainList {
+  font-family: Arial-black;
+  font-size: 25px;
+}
+
+#header {
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+form {
+  padding: 20px;
+}
+
+.delete {
+  margin-left: 40px;
+}
